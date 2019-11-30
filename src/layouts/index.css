@@ -199,14 +199,11 @@ footer {
     background-color: black;
 }
 
-img {
-    max-height: 500px;
-}
-
 .slide-content {
     display: flex;
     flex-direction: column;
     height: 100%;
+    width: 100vw;
     justify-content: space-evenly;
 }
 
